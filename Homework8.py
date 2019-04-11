@@ -1,3 +1,6 @@
+#DaVonte' Whitfield 
+#Python
+#You can upload a file and this program will count all words and output the highest word with the amount.
 import operator
 
 counts = dict()
